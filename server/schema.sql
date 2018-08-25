@@ -19,7 +19,7 @@ CREATE TABLE users (
 
 /* Create other tables and define schemas for them here! */
 
-insert into messages(msg_txt, user, room) values('hello world', 'Christopher Andrew Larson', 'lobby');
+insert into messages(msg_txt, user, room) values('YOU GO GLEN COCO', 'Karin', 'lobby');
 insert into messages(msg_txt, user, room) values('hello world', 'Christopher Andrew Larson', '8th floor');
 
 /*  Execute this file from the command line by typing:
